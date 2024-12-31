@@ -456,8 +456,8 @@ NOT
 
 ===================================================
 Error:-1360
-In line 2, column 10
-Stored procedure compile error: mismatched input 'NOT' expecting {REVERSE, DELIMITED_ID, '[', REGULAR_ID}
+In line 6, column 1
+Stored procedure compile error: mismatched input 'begin' expecting {<EOF>, COMMENT}
 
 ===================================================
 'NULL'    

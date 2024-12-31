@@ -22,7 +22,7 @@ select func_ts(datetime'0000-00-00 00:00:00') from dual;
 drop function func_ts;
 drop function func_time;
 drop function func_date;
-
+drop function func_dt;
 
 evaluate 'test pl/csql';
 create or replace procedure proc_ts() as
